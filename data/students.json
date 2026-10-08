@@ -1,0 +1,26 @@
+[
+  {
+    "student_id": "2400617",
+    "name": "Eric A. Estoesta",
+    "age": 20,
+    "email": "eric.estoesta.ecoast@panpacificu.edu.ph",
+    "course": "Batchelor of Science in Information Technology",
+    "phone": "09277485337"
+  },
+  {
+    "student_id": "2400618",
+    "name": "Ernest A. Villanueva",
+    "age": 21,
+    "email": "ernest.villanueva.ecoast@panpacificu.edu.ph",
+    "course": "Batchelor of Science in Information Technology",
+    "phone": "09915322219"
+  },
+  {
+    "student_id": "2400619",
+    "name": "Mark John R. Bongcayao",
+    "age": 20,
+    "email": "mark.bongcayao.ecoast@panpacificu.edu.ph",
+    "course": "Batchelor of Science in Information Technology",
+    "phone": "09915322219"
+  }
+]

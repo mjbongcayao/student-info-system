@@ -1,0 +1,4 @@
+# The application uses only the Python standard library (3.9+).
+# Optional developer tools:
+pytest>=7.0
+flake8>=6.0

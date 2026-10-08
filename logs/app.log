@@ -1,0 +1,6 @@
+2026-10-08 21:33:47,413 | INFO     | sis.service | Loaded 2 students.
+2026-10-08 21:33:47,413 | INFO     | sis.main | Application started.
+2026-10-08 21:35:34,229 | INFO     | sis.service | Added student 2400619
+2026-10-08 21:40:37,160 | INFO     | sis.service | Loaded 3 students.
+2026-10-08 21:40:37,160 | INFO     | sis.main | Application started.
+2026-10-08 21:43:33,122 | INFO     | sis.main | Application exited.
